@@ -1,0 +1,7 @@
+Problem 1: Create a sticky footer
+	Doing
+	- Trying to understand css in react
+	- Playing around with padding in the Header and footer CSS Files
+
+To Do:
++ What api are you going to use and what will your web app do?
