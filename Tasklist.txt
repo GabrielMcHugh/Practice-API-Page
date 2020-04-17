@@ -1,7 +1,18 @@
-Problem 1: Create a sticky footer
-	Doing
-	- Trying to understand css in react
-	- Playing around with padding in the Header and footer CSS Files
-
 To Do:
 + What api are you going to use and what will your web app do?
++ Uses the coordinates of the Space Station Location API and projects them onto a google map.
+	- Grab the Space Station API and return it as an object
+	- Implement a google map onto your webpage
+	- Use the SSLocation object to find its position on a map
+	- Add some fancy UI and animations to you web page
+
+Doing:
+Problem 2: Grab the Space Station API and return it as an object
+	Doing:
+		- Implement a promise and a way to store the returned object
+	To Do:
+
+
+
+Done:
+Problem 1: Create a sticky footer
