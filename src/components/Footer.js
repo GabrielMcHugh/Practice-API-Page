@@ -1,8 +1,9 @@
 import React from 'react';
+import './Footer.css';
 
 const Footer = () => {
 	return (
-		<div style={{backgroundColor: '#ffe14e', height: 'calc(100% - 60px)'}}>
+		<div className = 'footer'>
 			Footer Card
 		</div>
 	);

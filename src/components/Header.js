@@ -1,8 +1,9 @@
 import React from 'react';
+import './Header.css';
 
 const Header = () => {
 	return (
-		<div style={{backgroundColor: 'lightblue'}}>
+		<div className = 'header'>
 			Title Card
 		</div>
 	);
